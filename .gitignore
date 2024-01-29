@@ -1,0 +1,6 @@
+.vscode
+server/target
+keystore.jks
+localhost.crt
+user.json
+Database
